@@ -1,4 +1,4 @@
-funcion A() {
+funcion A2() {
 ...
 ..
 Hago un cambio en esta función
