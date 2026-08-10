@@ -2,7 +2,7 @@ funcion nueva()
 {
 a
 sd
-Lo modifico para probar mi nuevo modelo
+Lo modifico para probar mi nuevo modelo, anduvo todo bien
 d
 asd
 ads
