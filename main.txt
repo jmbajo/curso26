@@ -1,5 +1,4 @@
-funcion A2() {
-...
+funcion AB() {
 ..
 Hago un cambio en esta función
 Sigo trabajando en mi versión estable
