@@ -16,3 +16,9 @@ def function
 ..
 …
 
+def funcion() {
+...
+..
+..
+..
+}
