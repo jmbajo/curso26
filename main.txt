@@ -11,3 +11,8 @@ funcion B() {
 ..
 sigo trabajando con nuevo modelo
 }
+
+def function
+..
+…
+
